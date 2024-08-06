@@ -1,0 +1,1 @@
+# py-pswrd-generator-for-my-password-manager
